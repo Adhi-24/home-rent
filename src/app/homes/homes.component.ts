@@ -4,7 +4,7 @@ import { Router, ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-homes',
-  templateUrl: './homes.component.html'
+  templateUrl: './homes.component.html',
 })
 export class HomesComponent implements OnInit {
 
